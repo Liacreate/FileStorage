@@ -8,8 +8,8 @@
                 {"type":"13吋MacBook Pro","des":"AppleM1晶片配備8核心CPU與8核心GPU512GB儲存空間","price":"NT$45900"}
             ],
             "storage":[
-                {"size":"8GB 統一記憶體","add":"","price":"39900"},
-                {"size":"16GB 統一記憶體","add":"6000","price":"45900"}
+                {"size":"8GB 統一記憶體","add":"","price":"39,900"},
+                {"size":"16GB 統一記憶體","add":"6000","price":"45,900"}
             ],
             "color":[
                 {"color":"太空灰色",
