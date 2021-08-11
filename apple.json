@@ -3,7 +3,7 @@
         "name":"MacBook Pro",
             "price":"NT$39,900起",
             "imgurl":"",
-            "storge":[
+            "storage":[
                 {"size":"256GB","price":"NT$39900"},
                 {"size":"512GB","price":"NT$45900"}
             ],
