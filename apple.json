@@ -25,8 +25,8 @@
             "price":"NT$24,900起",
             "imgurl":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-11-select-202104_GEO_TW?wid=1090&hei=1100&fmt=jpeg&qlt=80&.v=1617864731000",
             "type":[
-                {"type":"11 吋顯示器","des":"Liquid Retina 顯示器","price":"NT$24,900 起"},
-                {"type":"12.9 吋顯示器","des":"Liquid Retina XDR 顯示器","price":"NT$34,900 起"}
+                {"type":"11 吋顯示器","des":"Liquid Retina 顯示器","price":"NT$24,900 "},
+                {"type":"12.9 吋顯示器","des":"Liquid Retina XDR 顯示器","price":"NT$34,900 "}
             ],
             "storage":[
                 {"size":"128GB","price":"NT$24900"},
